@@ -9,5 +9,5 @@ __pycache__/
 
 # PyInstaller files
 build/
-dist/
+#dist/
 *.spec
