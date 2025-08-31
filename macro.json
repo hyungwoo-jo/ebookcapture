@@ -1,0 +1,233 @@
+[
+    {
+        "action": "key_release",
+        "details": {
+            "key": "Key.enter"
+        },
+        "delay": 0.05359601974487305
+    },
+    {
+        "action": "mouse_press",
+        "details": {
+            "x": 1002,
+            "y": 398,
+            "button": "Button.right"
+        },
+        "delay": 0.8709988594055176
+    },
+    {
+        "action": "mouse_release",
+        "details": {
+            "x": 1002,
+            "y": 398,
+            "button": "Button.right"
+        },
+        "delay": 0.14110279083251953
+    },
+    {
+        "action": "mouse_move",
+        "details": {
+            "x": 1002,
+            "y": 399
+        },
+        "delay": 0.4055197238922119
+    },
+    {
+        "action": "mouse_move",
+        "details": {
+            "x": 1002,
+            "y": 401
+        },
+        "delay": 0.0071675777435302734
+    },
+    {
+        "action": "mouse_move",
+        "details": {
+            "x": 1002,
+            "y": 402
+        },
+        "delay": 0.02256488800048828
+    },
+    {
+        "action": "mouse_move",
+        "details": {
+            "x": 1002,
+            "y": 403
+        },
+        "delay": 0.029425621032714844
+    },
+    {
+        "action": "mouse_move",
+        "details": {
+            "x": 1002,
+            "y": 404
+        },
+        "delay": 0.023977279663085938
+    },
+    {
+        "action": "mouse_move",
+        "details": {
+            "x": 1002,
+            "y": 405
+        },
+        "delay": 0.021604537963867188
+    },
+    {
+        "action": "mouse_move",
+        "details": {
+            "x": 1002,
+            "y": 405
+        },
+        "delay": 0.008004188537597656
+    },
+    {
+        "action": "mouse_move",
+        "details": {
+            "x": 1002,
+            "y": 406
+        },
+        "delay": 0.021946430206298828
+    },
+    {
+        "action": "mouse_move",
+        "details": {
+            "x": 1003,
+            "y": 407
+        },
+        "delay": 0.023404836654663086
+    },
+    {
+        "action": "mouse_move",
+        "details": {
+            "x": 1003,
+            "y": 408
+        },
+        "delay": 0.006950855255126953
+    },
+    {
+        "action": "mouse_move",
+        "details": {
+            "x": 1003,
+            "y": 409
+        },
+        "delay": 0.008001327514648438
+    },
+    {
+        "action": "mouse_move",
+        "details": {
+            "x": 1003,
+            "y": 410
+        },
+        "delay": 0.006945610046386719
+    },
+    {
+        "action": "mouse_move",
+        "details": {
+            "x": 1004,
+            "y": 410
+        },
+        "delay": 0.007751941680908203
+    },
+    {
+        "action": "mouse_move",
+        "details": {
+            "x": 1007,
+            "y": 412
+        },
+        "delay": 0.015249013900756836
+    },
+    {
+        "action": "mouse_move",
+        "details": {
+            "x": 1008,
+            "y": 412
+        },
+        "delay": 0.014750242233276367
+    },
+    {
+        "action": "mouse_move",
+        "details": {
+            "x": 1012,
+            "y": 413
+        },
+        "delay": 0.005999326705932617
+    },
+    {
+        "action": "mouse_move",
+        "details": {
+            "x": 1017,
+            "y": 414
+        },
+        "delay": 0.009251117706298828
+    },
+    {
+        "action": "mouse_move",
+        "details": {
+            "x": 1025,
+            "y": 416
+        },
+        "delay": 0.006684780120849609
+    },
+    {
+        "action": "mouse_move",
+        "details": {
+            "x": 1026,
+            "y": 416
+        },
+        "delay": 0.015444755554199219
+    },
+    {
+        "action": "mouse_move",
+        "details": {
+            "x": 1027,
+            "y": 416
+        },
+        "delay": 0.022200345993041992
+    },
+    {
+        "action": "mouse_press",
+        "details": {
+            "x": 1027,
+            "y": 416,
+            "button": "Button.left"
+        },
+        "delay": 0.30067896842956543
+    },
+    {
+        "action": "mouse_release",
+        "details": {
+            "x": 1027,
+            "y": 416,
+            "button": "Button.left"
+        },
+        "delay": 0.1423332691192627
+    },
+    {
+        "action": "key_press",
+        "details": {
+            "key": "Key.enter"
+        },
+        "delay": 1.7568364143371582
+    },
+    {
+        "action": "key_release",
+        "details": {
+            "key": "Key.enter"
+        },
+        "delay": 0.12195587158203125
+    },
+    {
+        "action": "key_press",
+        "details": {
+            "key": "Key.right"
+        },
+        "delay": 1.20119309425354
+    },
+    {
+        "action": "key_release",
+        "details": {
+            "key": "Key.right"
+        },
+        "delay": 0.17372679710388184
+    }
+]
