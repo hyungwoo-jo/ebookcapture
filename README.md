@@ -1,6 +1,6 @@
-# Ebook Capture Tools
+# Automation and Utility Tools
 
-This project contains a collection of tools for ebook capture and processing.
+This project contains a collection of automation and utility tools.
 
 ## Applications
 
